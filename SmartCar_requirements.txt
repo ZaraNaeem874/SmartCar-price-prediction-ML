@@ -1,0 +1,19 @@
+# SmartCar Price Estimator — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core data handling
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Colab UI widgets
+ipywidgets>=8.0.0
+
+# Model serialization (built-in, no install needed)
+# pickle — included in Python standard library
